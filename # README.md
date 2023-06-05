@@ -12,13 +12,17 @@
 ## Componentes necessários
 
 - Arduino Uno
-- Display LCD 16x2
+- Display LCD
 - 3 Servo motores
 - Sensor de luz (LDR)
 - Sensor de temperatura
-- 3 Potenciometros(Um se passa de sensor de umidade)
+- Sensor de umidade
+- Potenciômetro de luminosidade
+- Potenciômetro de temperatura
 - 3 Botões
-- Resistores e jumpers para conexão
+- 4 Resistor(1kΩ)
+- 1 Resistor(1.8kΩ)
+- 2 Placa de ensaio pequena
 
 ## Bibliotecas utilizadas
 
